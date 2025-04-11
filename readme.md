@@ -1,10 +1,12 @@
 # Dots
 
+## Gruvbox everything
+
 ### Programs
 
 Window manager: Sway
 <br>
-Status bar: Waybar
+Status bar: Waybar [Used this example theme](https://github.com/mubin6th/MinimalSwayFX/tree/main/waybar)
 <br>
 Terminal: Kitty
 <br>
